@@ -18,3 +18,9 @@ public class pattern5 {
         }
     }
 }
+// Output : n = 5
+//     *
+//    **
+//   ***
+//  ****
+// *****
